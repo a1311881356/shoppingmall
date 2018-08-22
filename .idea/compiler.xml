@@ -12,6 +12,7 @@
         <module name="pay" />
         <module name="shoppingmall" />
         <module name="user" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="pay" target="1.8" />
       <module name="shoppingmall" target="1.8" />
       <module name="user" target="1.8" />
+      <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
