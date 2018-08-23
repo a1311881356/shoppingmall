@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka" />
         <module name="merchant" />
+        <module name="merchant-web" />
         <module name="order" />
         <module name="pay" />
         <module name="shoppingmall" />
@@ -18,6 +19,7 @@
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="merchant" target="1.8" />
+      <module name="merchant-web" target="1.8" />
       <module name="order" target="1.8" />
       <module name="pay" target="1.8" />
       <module name="shoppingmall" target="1.8" />
