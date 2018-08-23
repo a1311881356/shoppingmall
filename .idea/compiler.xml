@@ -22,7 +22,7 @@
       <module name="merchant-web" target="1.8" />
       <module name="order" target="1.8" />
       <module name="pay" target="1.8" />
-      <module name="shoppingmall" target="1.8" />
+      <module name="shoppingmall" target="1.5" />
       <module name="user" target="1.8" />
       <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
